@@ -210,4 +210,4 @@ Be sure to include any preliminary setup information, such as installing depende
 * Be well commented with concise, relevant notes that other developers can understand. (10 points)
 
 ---
-© 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
